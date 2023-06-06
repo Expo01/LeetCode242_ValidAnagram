@@ -32,7 +32,7 @@ class Solution {
     }
 }
 
-// AGAIN MY FAILED SOLUTION THAT WAS ON THE RIGHT TRACK
+// AGAIN MY FAILED SOLUTION THAT WAS ON THE RIGHT TRACK.
 //class Solution {
 //    public boolean isAnagram(String s, String t) {
 //
